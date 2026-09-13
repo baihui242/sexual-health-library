@@ -3,7 +3,7 @@
 > 面向中文读者的成人性健康资料导航。用中文搭建理解框架，收录中文与英文的可靠资料。
 
 ![Status](https://img.shields.io/badge/status-v0.1-informational)
-![Resources](https://img.shields.io/badge/resources-30-brightgreen)
+![Resources](https://img.shields.io/badge/resources-30%2B-brightgreen)
 ![Language](https://img.shields.io/badge/language-中文%20%2F%20English-blue)
 ![License](https://img.shields.io/badge/license-CC0-lightgrey)
 
@@ -164,7 +164,7 @@
 性取向、性别认同、身体特征与性行为不是同一件事。资料分类会尽量避免把某一种经验当作所有人的默认经验。
 
 - [Planned Parenthood — Sexual Orientation](https://www.plannedparenthood.org/learn/sexual-orientation/sexual-orientation) · [English] [指南] — 性取向、吸引与自我认同的基础解释。
-- [Planned Parenthood — Gender Identity](https://www.plannedparenthood.org/learn/gender-identity) · [English] [入口] — 性别认同、表达与相关健康信息的入门导航.
+- [Planned Parenthood — Gender Identity](https://www.plannedparenthood.org/learn/gender-identity) · [English] [入口] — 性别认同、表达与相关健康信息的入门导航。
 
 > 待扩充：跨性别与非二元健康、无性恋光谱、残障者性健康、不同年龄阶段。
 
@@ -192,7 +192,7 @@
 ## 项目进度
 
 - [x] 建立完整主题框架
-- [x] 加入首批 30 个资源条目
+- [x] 加入首批 30+ 个资源条目
 - [x] 建立收录与版权规则
 - [ ] 增加中文原创机构与本地服务资源
 - [ ] 整理经授权的 PDF
