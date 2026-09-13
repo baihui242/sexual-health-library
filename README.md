@@ -48,7 +48,7 @@ GO！Love yourself.
 
 ## 01 性健康基础框架
 
-这一部分回答“性健康究竟包括什么”。它不只关乎疾病，也包括身体、愉悦、关系、权利、安全与获得照护的能力。
+回答“性健康究竟包括什么”。它不只关乎疾病，也包括身体、愉悦、关系、权利、安全与获得照护的能力。
 
 - [WHO — Sexual health](https://www.who.int/health-topics/sexual-health) · [English] [入口] — 性健康的定义、核心要素、权利与主要议题；适合作为全库的概念起点。
 - [WHO — Sexual and Reproductive Health and Research](https://www.who.int/teams/sexual-and-reproductive-health-and-research-%28srh%29) · [English] [入口] — WHO 的性与生殖健康研究、指南和出版物总入口。
