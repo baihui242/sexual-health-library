@@ -1,4 +1,4 @@
-# Sexual Health Library｜中文性健康资料库
+# Sexual Health Library｜中文性知识资料库
 
 > 面向中文读者的成人性健康资料导航。用中文搭建理解框架，收录简体中文、繁体中文、英文与日文的可靠资料来源。
 
@@ -7,7 +7,7 @@
 ![Language](https://img.shields.io/badge/language-中文%20%2F%20EN%20%2F%20日本語-blue)
 ![License](https://img.shields.io/badge/license-CC0-lightgrey)
 
-让每一位成年人，无论男女，拥有科学完整无偏见的性认知。
+让每一位成年人，无论男女，建立**科学完整无偏见的**性认知。
 当你想了解自己的身体、愉悦、情趣用品、同意、避孕、性传播感染或就医支持时，可以更快找到可信的起点。
 天生悦己，释放天性。
 GO！Love yourself. 
