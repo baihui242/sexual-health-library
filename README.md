@@ -1,10 +1,10 @@
 # Sexual Health Library｜中文性健康资料库
 
-> 面向中文读者的成人性健康资料导航。用中文搭建理解框架，收录中文与英文的可靠资料。
+> 面向中文读者的成人性健康资料导航。用中文搭建理解框架，收录简体中文、繁体中文、英文与日文的可靠资料来源。
 
 ![Status](https://img.shields.io/badge/status-v0.1-informational)
 ![Resources](https://img.shields.io/badge/resources-30%2B-brightgreen)
-![Language](https://img.shields.io/badge/language-中文%20%2F%20English-blue)
+![Language](https://img.shields.io/badge/language-中文%20%2F%20EN%20%2F%20日本語-blue)
 ![License](https://img.shields.io/badge/license-CC0-lightgrey)
 
 让每一位成年人，无论男女，拥有科学完整无偏见的性认知。
@@ -14,7 +14,7 @@ GO！Love yourself.
 
 当前版本：**v0.1 / Phase 1**  
 最后核验：**2026-09-13**  
-当前特点：**框架已建立，英文资料较多，中文资料持续补充。**
+当前特点：**框架已建立，多语言资料与电子书来源持续补充。**
 
 ## 使用前请读
 
@@ -38,7 +38,7 @@ GO！Love yourself.
 
 **标签说明**
 
-- [中文] / [English] / [中英]：主要语言
+- [中文] / [简中] / [繁中] / [English] / [日本語] / [中英] / [多语言]：主要语言
 - [入口]：适合先建立全局认识
 - [指南]：围绕一个问题的系统说明
 - [求助]：包含支持服务或就医入口
@@ -179,12 +179,12 @@ GO！Love yourself.
 
 ---
 
-## 14 实用指南与 Open Ebooks
+## 14 实用指南与 Ebooks
 
-这一部分用来承接项目自行整理的长篇内容，以及开放授权的性健康电子书目录。
+这一部分承接项目自行整理的长篇内容，以及可以寻找性健康电子书的网站来源。
 
 - [实用指南目录](guides/README.md) — 未来发布重新查证、以中文原创整理的自慰、伴侣技巧、用品与沟通文章。
-- [Open Ebooks｜开放电子书目录](ebooks/README.md) — 收集可免费阅读、下载和复用的开放电子书，并标注语言、主题、格式与授权。
+- [Ebooks｜电子书来源导航](ebooks/README.md) — 只收录来源网站，说明语言、访问方式、常见格式以及大致能找到什么。
 
 ---
 
@@ -206,7 +206,7 @@ GO！Love yourself.
 - [x] 加入首批 30+ 个资源条目
 - [x] 建立收录与版权规则
 - [ ] 增加中文原创机构与本地服务资源
-- [ ] 收录并标注首批开放电子书
+- [x] 建立首批多语言电子书来源地图
 - [ ] 为情趣用品建立可直接使用的选择表
 - [ ] 自动检查失效链接
 - [ ] 视需要制作搜索页面
